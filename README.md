@@ -2,6 +2,9 @@
 
 Extracted study materials, notes, question banks, and reference documents for **Mathematics-I (M1)** backlog preparation.
 
+In the file Playlist.pdf first download that pdf file and then after opening the downloaded pdf, the "Playlist" hyperlink is clickable and on single click to that hyperlink it directly takes to the playlist I have made on YouTube.
+Do not worry with the initial download of Playlist.pdf as that action does not actually download the entire playlist but rather just the pdf through the which link to that YouTube playlist accessible. 
+
 ---
 
 ## 📌 Repository Structure
